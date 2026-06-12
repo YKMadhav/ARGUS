@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+scapy
+streamlit
+matplotlib
+bettercap
+psutil
+requests
