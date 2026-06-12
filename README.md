@@ -124,10 +124,7 @@ ARGUS aims to evolve from a software prototype into a self-contained cybersecuri
 
 ---
 
-## Team
+## ARGUS Development Team
 
-ARGUS Development Team
-
-Bachelor of Mathematical Sciences and Computing
-
-Sri Sathya Sai Institute of Higher Learning
+Khatwang Madhav Yippili
+Karthikeya Bodanki
