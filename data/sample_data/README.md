@@ -1,7 +1,10 @@
 # Sample Data
 
-This directory contains lightweight sample traffic data that may be used for testing and demonstration purposes.
+This directory contains sample datasets used during the development and evaluation of ARGUS.
 
-The full training datasets are located in the parent data directory.
+Included datasets:
 
-Future releases may include additional sample network traffic captures for educational demonstrations.
+- KDDTest.csv
+- nsl_kdd_dataset.csv
+
+These datasets provide examples of benign and malicious network traffic for testing and demonstration purposes.
