@@ -104,6 +104,18 @@ The current implementation is a software prototype demonstrating the complete AR
 
 ---
 
+## Dashboard Preview
+
+### Threat Monitoring Dashboard
+
+![Dashboard 1](docs/screenshots/dashboard_screenshot_1.png)
+
+### Detection & Alerts
+
+![Dashboard 2](docs/screenshots/dashboard_screenshot_2.png)
+
+---
+
 ## Repository Structure
 
 src/
