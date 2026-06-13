@@ -20,6 +20,30 @@ The name reflects the system's purpose as a continuously vigilant cybersecurity 
 
 ---
 
+## System Architecture
+
+![ARGUS Architecture](assets/architecture.png)
+
+---
+
+## Threat Detection Workflow
+
+![ARGUS Workflow](assets/workflow.png)
+
+---
+
+## Dashboard Preview
+
+### Threat Monitoring Dashboard
+
+![Dashboard 1](docs/screenshots/dashboard_screenshot_1.png)
+
+### Detection & Alerts
+
+![Dashboard 2](docs/screenshots/dashboard_screenshot_2.png)
+
+---
+
 ## Problem Statement
 
 Cyber threats such as port scanning, denial-of-service attacks, botnet activity, and unauthorized network reconnaissance continue to increase across educational institutions, small businesses, hospitals, and rural infrastructures.
@@ -67,26 +91,6 @@ Designed for deployment as a dedicated cybersecurity appliance or direct router 
 
 ---
 
-## System Architecture
-
-![ARGUS Architecture](assets/architecture.png)
-
-Network Traffic
-→ Packet Capture
-→ Feature Extraction
-→ Machine Learning Analysis
-→ Threat Classification
-→ Automated Response
-→ Dashboard & Alerts
-
----
-
-## Threat Detection Workflow
-
-![ARGUS Workflow](assets/workflow.png)
-
----
-
 ## Current Prototype
 
 The current implementation operates on a development workstation for demonstration and validation purposes.
@@ -98,23 +102,7 @@ This prototype validates the complete ARGUS detection pipeline while the future 
 * Router-integrated environments
 * Enterprise edge-security solutions
 
----
-
-## Prototype Status
-
 The current implementation is a software prototype demonstrating the complete ARGUS detection pipeline. Future versions are intended for deployment as dedicated cybersecurity appliances and router-integrated security solutions.
-
----
-
-## Dashboard Preview
-
-### Threat Monitoring Dashboard
-
-![Dashboard 1](docs/screenshots/dashboard_screenshot_1.png)
-
-### Detection & Alerts
-
-![Dashboard 2](docs/screenshots/dashboard_screenshot_2.png)
 
 ---
 
@@ -162,8 +150,7 @@ ARGUS aims to evolve from a software prototype into a self-contained cybersecuri
 
 ---
 
-## ARGUS Development Team
+## Development Team
 
-Khatwang Madhav Yippili
-
-Karthikeya Bodanki
+- Khatwang Madhav Yippili
+- Karthikeya Bodanki
