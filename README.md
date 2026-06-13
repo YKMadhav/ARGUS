@@ -79,6 +79,12 @@ Network Traffic
 
 ---
 
+## Threat Detection Workflow
+
+![ARGUS Workflow](assets/workflow.png)
+
+---
+
 ## Current Prototype
 
 The current implementation operates on a development workstation for demonstration and validation purposes.
