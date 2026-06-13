@@ -20,9 +20,9 @@ The name reflects the system's purpose as a continuously vigilant cybersecurity 
 
 ---
 
-## System Architecture
+## System Architecture                                                          ## Threat Detection Workflow
 
-![ARGUS Architecture](assets/architecture.png)   ![ARGUS Workflow](assets/workflow.png)
+![ARGUS Architecture](assets/architecture.png)                                  ![ARGUS Workflow](assets/workflow.png)
 
 ---
 
