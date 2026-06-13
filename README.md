@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">ARGUS</h1>
-<p align="center">
+<h1 align="center">
 AI-Powered Autonomous Network Defense Appliance
-</p>
+</h1>
 
 ##
 
