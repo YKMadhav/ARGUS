@@ -14,11 +14,11 @@ ARGUS is an AI-powered autonomous network defense appliance that continuously mo
 
 ## Name
 
+## Name
+
 ARGUS stands for **Autonomous Real-time Gateway Unsupervised Shield**.
 
-The name is inspired by the concept of continuous vigilance and autonomous protection, reflecting the system's ability to monitor, detect, and respond to cyber threats in real time.
-
-Unlike traditional network monitoring tools that only alert administrators after an attack has occurred, ARGUS actively analyzes network traffic, identifies suspicious behavior using Machine Learning, and initiates automated defensive actions against malicious entities.
+The name reflects the system's purpose as a continuously vigilant cybersecurity platform capable of autonomously monitoring, detecting, and responding to network threats in real time.
 
 ---
 
