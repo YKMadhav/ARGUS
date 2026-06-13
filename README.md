@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200">
+  <img src="assets/logo.png" width="300">
 </p>
 
 <h1 align="center">ARGUS</h1>
@@ -8,7 +8,9 @@
 AI-Powered Autonomous Network Defense Appliance
 </p>
 
-# ARGUS
+---
+
+ARGUS is an AI-powered autonomous network defense system designed to detect, classify, and mitigate cyber threats in real time.
 
 ## Autonomous Real-time Gateway Unsupervised Shield
 
