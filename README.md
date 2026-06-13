@@ -67,6 +67,8 @@ Designed for deployment as a dedicated cybersecurity appliance or direct router 
 
 ## System Architecture
 
+![ARGUS Architecture](assets/architecture.png)
+
 Network Traffic
 → Packet Capture
 → Feature Extraction
