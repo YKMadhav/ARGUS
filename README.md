@@ -22,7 +22,7 @@ The name reflects the system's purpose as a continuously vigilant cybersecurity 
 
 ## System Architecture
 
-![ARGUS Architecture](assets/architecture.png)
+![ARGUS Architecture](assets/architecture.png)   ![ARGUS Workflow](assets/workflow.png)
 
 ---
 
