@@ -20,30 +20,6 @@ The name reflects the system's purpose as a continuously vigilant cybersecurity 
 
 ---
 
-## System Architecture                                                          ## Threat Detection Workflow
-
-![ARGUS Architecture](assets/architecture.png)                                  ![ARGUS Workflow](assets/workflow.png)
-
----
-
-## Threat Detection Workflow
-
-![ARGUS Workflow](assets/workflow.png)
-
----
-
-## Dashboard Preview
-
-### Threat Monitoring Dashboard
-
-![Dashboard 1](docs/screenshots/dashboard_screenshot_1.png)
-
-### Detection & Alerts
-
-![Dashboard 2](docs/screenshots/dashboard_screenshot_2.png)
-
----
-
 ## Problem Statement
 
 Cyber threats such as port scanning, denial-of-service attacks, botnet activity, and unauthorized network reconnaissance continue to increase across educational institutions, small businesses, hospitals, and rural infrastructures.
@@ -88,6 +64,30 @@ Provides real-time visibility into network activity and detected threats.
 ### Future Router Integration
 
 Designed for deployment as a dedicated cybersecurity appliance or direct router integration.
+
+---
+
+## System Architecture
+
+![ARGUS Architecture](assets/architecture.png)
+
+---
+
+## Threat Detection Workflow
+
+![ARGUS Workflow](assets/workflow.png)
+
+---
+
+## Dashboard Preview
+
+### Threat Monitoring Dashboard
+
+![Dashboard 1](docs/screenshots/dashboard_screenshot_1.png)
+
+### Detection & Alerts
+
+![Dashboard 2](docs/screenshots/dashboard_screenshot_2.png)
 
 ---
 
