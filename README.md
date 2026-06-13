@@ -80,6 +80,12 @@ This prototype validates the complete ARGUS detection pipeline while the future 
 
 ---
 
+## Prototype Status
+
+The current implementation is a software prototype demonstrating the complete ARGUS detection pipeline. Future versions are intended for deployment as dedicated cybersecurity appliances and router-integrated security solutions.
+
+---
+
 ## Repository Structure
 
 src/
