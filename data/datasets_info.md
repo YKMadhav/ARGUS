@@ -4,7 +4,7 @@
 
 The ARGUS machine learning models were developed and evaluated using publicly available cybersecurity datasets.
 
-These datasets provide examples of both normal and malicious network traffic.
+These datasets provide examples of both benign and malicious network traffic, enabling the training and validation of anomaly detection models used within ARGUS.
 
 ---
 
@@ -12,37 +12,61 @@ These datasets provide examples of both normal and malicious network traffic.
 
 ### CICIDS2017
 
-(Not included here due to size limitations)
+**Status:** Not included in this repository due to dataset size limitations.
 
-Contains realistic network traffic with multiple attack categories.
+The CICIDS2017 dataset contains realistic network traffic and a wide range of modern cyberattack scenarios.
 
-Examples:
+**Attack Categories Include:**
 
-* DDoS
+* DDoS Attacks
 * Port Scanning
 * Brute Force Attacks
 * Botnet Activity
+* Web-Based Attacks
 
 ---
 
 ### NSL-KDD
 
-Improved version of the KDD Cup 1999 dataset.
+The NSL-KDD dataset is an improved version of the KDD Cup 1999 dataset and is widely used in intrusion detection research.
 
-Used extensively in intrusion detection research.
+**Advantages:**
+
+* Reduced redundancy
+* Improved dataset balance
+* Benchmark dataset for IDS evaluation
+
+---
+
+### KDDTest
+
+The KDDTest dataset is used to evaluate model performance against previously unseen network traffic and attack patterns.
 
 ---
 
 ## Purpose
 
-The datasets are used to:
+These datasets are used to:
 
 * Train anomaly detection models
 * Validate threat detection performance
 * Evaluate classification accuracy
+* Benchmark model effectiveness
 
 ---
 
-## Note
+## Machine Learning Models
 
-The datasets included in this repository are intended for research, educational, and demonstration purposes only.
+The processed datasets are used to train and validate:
+
+* Isolation Forest
+* Future supervised classifiers
+* Future ensemble detection models
+
+---
+
+## Disclaimer
+
+The datasets included in this repository are used solely for educational, research, and demonstration purposes within the ARGUS project.
+
+All dataset credits belong to their respective creators and maintainers.
