@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">ARGUS</h1>
-
 <p align="center">
 AI-Powered Autonomous Network Defense Appliance
 </p>
