@@ -148,8 +148,7 @@ The current implementation is a software prototype demonstrating the complete AR
 
 src/
 
-* Detection Engine
-* Dashboard Components
+* Detection engine and dashboard modules
 
 models/
 
