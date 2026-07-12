@@ -139,6 +139,40 @@ hardware/
 
 ---
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YKMadhav/ARGUS.git
+cd ARGUS
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch the Streamlit dashboard:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## Platform Compatibility
+
+ARGUS has been tested on the following operating systems:
+
+- ✅ macOS
+- ✅ Windows
+
+Compatibility with Linux has not yet been verified.
+
+---
+
 ## Future Vision
 
 ARGUS aims to evolve from a software prototype into a self-contained cybersecurity appliance capable of protecting organizations that lack access to enterprise-grade security infrastructure.
