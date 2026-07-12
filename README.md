@@ -202,6 +202,8 @@ Launch the Streamlit dashboard:
 streamlit run app.py
 ```
 
+After launching the dashboard, open the local Streamlit URL displayed in the terminal (typically `http://localhost:8501`) to begin monitoring network traffic.
+
 ---
 
 ## Platform Compatibility
