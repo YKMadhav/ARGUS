@@ -210,8 +210,8 @@ After launching the dashboard, open the local Streamlit URL displayed in the ter
 
 ARGUS has been tested on the following operating systems:
 
-- ✅ macOS
-- ✅ Windows
+- macOS
+- Windows
 
 Compatibility with Linux has not yet been verified.
 
